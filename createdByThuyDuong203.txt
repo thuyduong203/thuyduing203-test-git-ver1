@@ -1,2 +1,6 @@
 Thuy Duong 203, 09:50
+<<<<<<< HEAD
 Thuy duong 2k3: thích thì sửa thuii ahihi
+=======
+Thuy Duong 203 update, 10:38
+>>>>>>> 9a1daac0c134f94b5df2192936e7ff403c581478
